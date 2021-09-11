@@ -1,6 +1,9 @@
 # Super-Mario-World-Map
 Super Mario World themed map made using Google Cloud Platform and Google Maps JavaScript API.
-<br></br>
+
+![Super Mario World Map Screenshot](https://github.com/vxm52/Super-Mario-World-Map/blob/master/extras/Screenshot.png?raw=true)
+
+
 ## Instructions
 In order to run the program, you need your own Google Cloud Platform API key and a Google Maps custom Map ID. To get your API key:
 
@@ -18,11 +21,7 @@ Or visit [Google Maps Platform Documentation](https://developers.google.com/maps
 ### Applying your API keys into the app:
 - Add the API_KEY and MAP_ID in the `<script>` tag for the Maps API in the `index.html` file
 - Add in the MAP_ID in the `script.js` file
-
 <br></br>
-![Super Mario World Map Screenshot](https://github.com/vxm52/Super-Mario-World-Map/blob/master/extras/Screenshot.png?raw=true)
-
-
 ## Next-steps for improvements
 - Update default marker icons to Mario themed icons globally
   - Allows automatic custom marker generation regardless of location around the globe
