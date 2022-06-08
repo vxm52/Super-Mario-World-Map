@@ -1,5 +1,5 @@
 # Super-Mario-World-Map
-Super Mario World themed map made using Google Cloud Platform and Google Maps JavaScript API.
+Super Mario World theme for your Google Maps. Made using Google Cloud Platform and the Google Maps JavaScript API.
 
 ![Super Mario World Map Screenshot](https://github.com/vxm52/Super-Mario-World-Map/blob/master/extras/Screenshot.png?raw=true)
 
